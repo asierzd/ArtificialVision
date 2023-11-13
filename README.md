@@ -1,6 +1,11 @@
 # ArtificialVision
 Exercises from Artificial Vision subject of the MSc I am studying. Image processing, and computer vision with Matlab.
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/asierzd/ArtificialVision?label=License&style=for-the-badge&color=yellow" href="https://opensource.org/license/gpl-3-0/"/>
+  <img src="https://img.shields.io/github/languages/top/asierzd/ArtificialVision?style=for-the-badge&color=green"/>
+</p>
+
 ## Index
 
 ### 1. Image processing exercises:
